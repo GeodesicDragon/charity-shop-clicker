@@ -1,0 +1,18 @@
+Version 0.5.6-Alpha (January 21st 2025)
+
+* Added automatic update checking on game start. If a new version is available, you will be given the option of visiting the GitHub page.
+* Added a new department.
+	* Home Media: Has a starting price of £10,000 and adds £20 per second.
+* Added two new upgrades.
+	* The Good Plates: Has a starting price of £100 and increases output of bric-a-brac by 1% each time it is purchased.
+	* Latest Releases: Has a starting price of £500 and increases output of home media by 1% each time it is purchased.
+* Added an autosave feature (works every five minutes).
+* Game data is now saved to an XML file. The previous save method was clunky as hell, and saved data to a folder which used the current version of the game as its name, meaning that new versions would render old saves inaccessible. This should now be fixed, but you will need to start a new game.
+* Reduced how much departments increased in price by when purchased to 10% (was 50%).
+* Reduced how much upgrades increased in price by when purchased to 25% (was 50%).
+* Removed border from the Available Money, Money Per Second, and Money Per Click boxes.
+* Messages in the status bar are now cleared after five seconds.
+
+Version 0.0.1-Alpha (January 1st 2025)
+
+* Initital public release.
