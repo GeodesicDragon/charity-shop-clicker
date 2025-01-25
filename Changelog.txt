@@ -1,3 +1,22 @@
+Version 0.6.13-Alpha (January 25th 2025)
+
+* Added random events.
+	* Events have a 10% chance of occurring every ten minutes, and are chosen at random.
+	* The possible events are:
+		* PR Success: +50% money per second for 5 seconds.
+		* PR Disaster: -50% money per second for 5 seconds.
+		* Ringing Registers: +75% money per second for 10 seconds.
+		* Sticky Fingers: -75% money per second for 10 seconds.
+	* Once the event ends, your money per second is restored to its pre-event value.
+	* Any departments or upgrades bought during the event will be taken into account, so no progress will be lost.
+* Fixed the update checker incorrectly informing you of new versions when there weren't any.
+* Removed tooltips from department buttons; they now show how much money per second they bring in.
+* Fixed the 'Good Plates' upgrade not working as intended (I forgot to actually code it).
+* Fixed the Latest Releases upgrade not working as intended (again, I forgot to code it).
+* Fixed the Latest Releases upgrade showing an incorrect tooltip.
+* Increased the bonus given by the Good Plates upgrade to 10% (was 1%).
+* Increased the bonus given by the Latest Releases upgrade to 10% (was 1%).
+
 Version 0.5.6-Alpha (January 21st 2025)
 
 * Added automatic update checking on game start. If a new version is available, you will be given the option of visiting the GitHub page.
