@@ -1,6 +1,16 @@
+Version 0.8.18-Alpha (September 4th 2025)
+
+* Added clothing department, with a starting price of £25,000.
+* Added 'Designer Labels' upgrade, which increases the output of the clothing department by 10% each time it is purchased.
+* Removed events, as they ended up causing calculation issues with your money per second. I will try to figure out a replacement in due course.
+* Fixed some figures not being saved correctly.
+* Fixed some figures not being loaded correctly.
+* Fixed incorrect tooltip on the 'Good Plates' upgrade.
+* Fixed incorrect tooltip on the 'Latest Releases' upgrade.
+
 Version 0.6.13-Alpha (January 25th 2025)
 
-* Added random events.
+* Added events.
 	* Events have a 10% chance of occurring every ten minutes, and are chosen at random.
 	* The possible events are:
 		* PR Success: +50% money per second for 5 seconds.
