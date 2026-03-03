@@ -1,3 +1,25 @@
+Version 1.0.0 (March 3rd 2026)
+
+* Added setting to change which currency is being used.
+	* Right now you can choose between British Pounds, US Dollars, or Euros.
+	* More currencies may be added in later updates.
+* Added three new departments.
+	* Toys and Games: Has a starting price of 100,000 and adds 75 per second.
+	* New Goods: Has a starting price of 150,000 and adds 100 per second.
+	* Electricals: Has a starting price of 200,000 and adds 150 per second.
+* Added three new upgrades.
+	* All Pieces Present: Has a starting price of 1500 and increases output of toys and games by 10% each time it is purchased.
+	* Unique Gifts: Has a starting price of 2000 and increases output of new goods by 10% each time it is purchased.
+	* Plug and Play: Has a starting price of 2500 and increases output of electricals by 10% each time it is purchased.
+* Added autoclicker upgrade.
+	* Starting price is 10,000 with a 10 second click delay.
+	* Each subsequent purchase reduces this by one second.
+	* Upon reaching one click per second, the button is disabled.
+* Fixed money per second calculation error when purchasing new departments.
+* Removed the automatic update checker, as it was a bit temperamental. Instead, you can now go to the latest GitHub release from the 'Game' menu.
+
+With the remaining departments and upgrades added, I feel it's time to come out of the Alpha stage and officially mark this project as completed. That doesn't mean I'm going to stop working on it, though; I will continue to fix bugs and tweak things based on any feedback I might get.
+
 Version 0.8.19-Alpha (September 4th 2025)
 
 * Added clothing department, with a starting price of £25,000.
