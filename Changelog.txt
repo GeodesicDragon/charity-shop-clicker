@@ -1,3 +1,25 @@
+Version 1.7.11 (March 7th 2026)
+
+* Added credit for the shop image to the About box. Apologies for not adding this sooner.
+* Added a shortcut for reporting bugs. Press Ctrl+B to be taken to the Issues page on the game's GitHub repository.
+* Added four new currency symbols to choose from.
+	* Indian Rupee (₹)
+	* Japanese Yen (¥)
+	* Korean Won (₩)
+	* Polish Zloty (zł)
+* Added the ability to disable autosaving.
+* Fixed New Goods department not working.
+* Fixed Electrical department not working.
+* Fixed All Pieces Present upgrade not working.
+* Fixed Unique Gifts upgrade not working.
+* Fixed Designer Labels upgrade button showing incorrect upgrade cost.
+* Fixed All Pieces Present upgrade button showing incorrect upgrade cost.
+* Fixed Home Media department showing £ symbol if another currency was chosen.
+* Fixed Good Plates upgrade showing £ symbol if another currency was chosen.
+* Fixed Latest Releases upgrade showing £ symbol if another currency was chosen.
+* Fixed Designer Labels upgrade showing £ symbol if another currency was chosen.
+* Fixed PR Campaign upgrade showing £ symbol if another currency was chosen.
+
 Version 1.0.0 (March 3rd 2026)
 
 * Added setting to change which currency is being used.
