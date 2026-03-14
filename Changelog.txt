@@ -1,3 +1,32 @@
+Version 1.8.34 (March 14th 2026)
+
+* Added the ability to see how many of each department you have purchased.
+* Reduced department upgrade bonus to 5% (was 10%). (1)
+* Purchasing things now increases the cost of the next thing by 50% (was 25%). (1)
+* Fixed Toys department showing incorrect income per second.
+* Fixed New Goods department showing incorrect income per second.
+* Fixed Electricals department showing incorrect income per second.
+* Fixed stray closing bracket on the Good Plates upgrade button.
+* Fixed stray closing bracket on the Latest Releases upgrade button.
+* Fixed stray closing bracket on the Designer Labels upgrade button.
+* Fixed stray closing bracket on the All Pieces Present upgrade button.
+* Fixed stray closing bracket on the Unique Gifts upgrade button.
+* Fixed stray closing bracket on the Plug and Play upgrade button.
+* Fixed stray closing bracket on the PR Campaign upgrade button.
+* Fixed Designer Labels upgrade price not being saved correctly.
+* Fixed All Pieces Present upgrade price not being saved correctly.
+* Fixed Unique Gifts upgrade price not being saved correctly.
+* Fixed Plug and Play upgrade price not being saved correctly.
+* Fixed number of owned Toys departments not being saved correctly.
+* Fixed number of owned New Goods departments not being saved correctly.
+* Fixed current cost of New Goods departments not being saved correctly.
+* Fixed current output of New Goods departments not being saved correctly.
+* Fixed number of owned Electricals departments not being saved correctly.
+* Fixed current cost of Electricals departments not being saved correctly.
+* Fixed current output of Electricals departments not being saved correctly.
+
+1. It was far too easy to make money with just a single department, so these changes aim to change that.
+
 Version 1.7.11 (March 7th 2026)
 
 * Added credit for the shop image to the About box. Apologies for not adding this sooner.
