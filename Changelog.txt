@@ -1,3 +1,11 @@
+Version 1.9.36 (March 22nd 2026)
+
+* Added save slots, allowing you to have up to three different games saved. Handy if you are trying different things.
+	* You must first define which slot you want to save to or load from before you select either option from the menu or press the shortcut keys.
+	* Slot one is where you will find any existing game data.
+* Fixed purchases of the Unique Gifts upgrade not recalculating your money per second value correctly.
+* Fixed purchases of the Plug and Play upgrade not recalculating your money per second value correctly.
+
 Version 1.8.34 (March 14th 2026)
 
 * Added the ability to see how many of each department you have purchased.
