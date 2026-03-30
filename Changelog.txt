@@ -1,3 +1,16 @@
+Version 1.10.39 (March 30th 2026)
+
+* Added difficulty settings.
+	* Very Easy: Money per second is doubled.
+	* Easy: Money per second is increased by 50%.
+	* Normal: Money per second is accumulated as normal.
+	* Hard: Money per second is reduced by 50%.
+	* Very Hard: Money per second is reduced by 75%.
+	* The cost of new departments and upgrades is not affected by difficulty.
+* Fixed Electricals department granting far too much money per second.
+* Fixed Plug and Play upgrade granting far too much money per second.
+* Fixed game not being saved when exiting.
+
 Version 1.9.36 (March 22nd 2026)
 
 * Added save slots, allowing you to have up to three different games saved. Handy if you are trying different things.
