@@ -1,3 +1,10 @@
+Version 1.11.39 (April 27th 2026)
+
+* Added offline earnings.
+	* When you save your game, the current date and time are also saved.
+	* When you next load your save, the length of time you were away for is calculated, and you are given the appropriate amount of money. For example, if you were earning 100 money per second and were away from the game for two days, which is 172,800 seconds, you would be given 17,280,000 on load.
+	* Offline progress is limited to a maximum of seven days.
+
 Version 1.10.39 (March 30th 2026)
 
 * Added difficulty settings.
