@@ -1,3 +1,34 @@
+Version 1.21.56 (May 3rd 2026)
+
+* Added six achievements; each one is awarded upon buying your 25th department.
+* Added department multiplier bonus.
+	* Every ten departments you purchase will double its output, up to a maximum of 50 departments owned.
+	* You can still keep buying departments after 50, but the bonus will not increase any further.
+	* The bonus also stacks; having 50 of a department will mean 32 times the output.
+* Added prestige button.
+	* Requires at least 1,000,000 money.
+	* Prestiging resets your game, but grants a permanent multiplier to your money per second based on how many points you have.
+	* The more money you have prior to prestiging, the more points you get.
+* Added the ability to buy 10 departments at once. You can do this by holding the Shift key before clicking a department.
+* Added the ability to buy as many departments as you can afford at once. You can do this by holding the Ctrl key before clicking a department.
+* The offline earnings timer now displays your time away in more than just seconds.
+* Increased the base amount earned per click to 25 (was 1).
+* The PR Campaign upgrade now increases the amount gained by clicking by 5% each time it is purchased.
+* Reduced the price increase of the PR Campaign upgrade to 10% (was 25%).
+* Fixed being able to spam saving and reloading to quickly accrue offline earnings.
+* Fixed Electricals department showing incorrect cost.
+* Buying new departments now increases the cost of the next one by 10% (was 50%).
+* Buying new upgrades now increases the cost of the next one by 15% (was 50%).
+* Money values over a thousand are now shortened.
+* Updated some UI elements to make them look cleaner.
+* Increased starting output of the Clothing department to 40 a second (was 30).
+* Reduced starting cost of the Toys department to 50,000 (was 100,000).
+* Reduced starting output of the Toys department to 60 a second (was 75).
+* Reduced starting cost of the New Goods department to 75,000 (was 150,000).
+* Reduced starting output of the New Goods department to 80 a second (was 100).
+* Reduced starting cost of the Electricals department to 100,000 (was 200,000).
+* Reduced starting output of the Electricals department to 100 a second (was 150).
+
 Version 1.11.39 (April 27th 2026)
 
 * Added offline earnings.
