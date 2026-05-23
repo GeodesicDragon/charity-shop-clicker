@@ -1,3 +1,26 @@
+Version 1.25.68 (May 23rd 2026)
+
+* Added two new achievements.
+	* Clicky Clicky - Fully upgrade the autoclicker.
+	* Power Points - Prestige for the first time.
+* Added affordability highlighting.
+	* Whenever you can afford to buy an item, its button will change colour.
+	* If you can't afford to buy something, its button will remain grey.
+	* This setting is on by default, but can be turned off.
+* Added 'Buy 10/Max' functionality to upgrades.
+* Fixed money per click not being shortened properly.
+* Fixed number of owned departments not being reset properly after prestiging.
+* Fixed autoclicker not being reset properly after prestiging.
+* Fixed offline earnings not being calculated properly after prestiging.
+* Fixed offline earnings not being shown in the shortened number format.
+* Fixed money per second display not taking prestige points into account.
+* Fixed achievements not being reset properly after prestiging.
+* Upgrade buttons no longer use tooltips to explain what they do.
+* Your current buy amount is now shown on screen.
+* Reduced the size of the charity shop image to make way for new UI elements.
+* Department buttons now tell you how many of each you own.
+* The prestige multiplier is now calculated using logarithmic scaling.
+
 Version 1.21.56 (May 3rd 2026)
 
 * Added six achievements; each one is awarded upon buying your 25th department.
